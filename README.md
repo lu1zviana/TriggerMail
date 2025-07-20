@@ -1,1 +1,1 @@
-# TriggerMail
+# TriggerMail 📩
