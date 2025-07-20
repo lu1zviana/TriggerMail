@@ -141,4 +141,4 @@ transport.sendMail({
 
 ## Questions?
 
-If you need help, [open an issue](https://github.com/yourusername/trigger-email/issues) or contact the maintainer.
+If you need help, [open an issue](https://github.com/yourusername/trigger-email/issues) or contact me.
