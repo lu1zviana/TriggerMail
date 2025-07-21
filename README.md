@@ -142,3 +142,5 @@ transport.sendMail({
 ## Questions?
 
 If you need help, [open an issue](https://github.com/yourusername/trigger-email/issues) or contact me.
+
+Made by [@lu1zviana](https://github.com/lu1zviana)
